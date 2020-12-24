@@ -8,3 +8,5 @@
         Content 4 (file)
         Content 5 (video)
 ...
+
+# python manage.py dumpdata courses --indent=2
